@@ -39,7 +39,7 @@ def scrape_ebay_with_playwright(max_pages=3):
             
             # Build URL with page number
             params = [
-                "_nkw=pixel+9+pro+xl",
+                "_nkw=Samsung+Galaxy+S22",
                 "_sacat=0",
                 "_from=R40",
                 "LH_Sold=1",
